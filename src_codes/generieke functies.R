@@ -8,7 +8,6 @@ general_func <- function(){
 
 
 
-
 # klik op de magic stick hierboven,
 # klik op Insert Roxygen Skeleton
 

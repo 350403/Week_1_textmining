@@ -7,4 +7,3 @@ source("src_codes/retrieve raw data.R")
 
 
 print(get_raw_data())
-print(general_func(get_raw_data()))
